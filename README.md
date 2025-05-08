@@ -21,7 +21,7 @@ https://kazuhito00.github.io/pyxel-pymunk-web-test/
 
 実行コマンドは以下の通り(ローカルで試す場合)
 ```python
-pyxel package ./ web_test.py
+pyxel package ./ shot_bullet.py
 python -m http.server 8000
 ```
 
